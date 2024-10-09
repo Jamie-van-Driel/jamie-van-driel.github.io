@@ -1,0 +1,10 @@
+span{
+    font-family:"Montserrat", sans-serif;
+    font-size: 350px;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
